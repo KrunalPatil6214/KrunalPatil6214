@@ -21,7 +21,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/krunal-patil-080aa2315" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/krunal-patil-080aa2315" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://kaggle.com/krunal6214" target="blank"><img src="https://img.shields.io/badge/Kaggle-%23006CFC.svg?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
   <a href="https://instagram.com/krunal___patil" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.hackerrank.com/krunal6214" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
